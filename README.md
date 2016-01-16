@@ -15,7 +15,7 @@ The container exposes port 80
 
 You can also optionally specify the variable ```PBWP_VERSION``` with the desired version of Phantombot Webpanel, eg.
 ```
--e "PB_VERSION=1.5"
+-e "PBWP_VERSION=1.5"
 ```
 
 It's recommended to use this image with [Docker-PhantomBot][3]
