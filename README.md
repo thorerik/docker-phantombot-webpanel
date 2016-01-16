@@ -1,5 +1,6 @@
 Docker-PhantomBot-WebPanel
 ==========================
+[![ImageLayers Layers](https://img.shields.io/imagelayers/layers/thorerik/phantombot-webpanel/latest.svg?style=flat-square)](https://imagelayers.io/?images=thorerik/phantombot-webpanel:latest) [![Layer Size](https://badge.imagelayers.io/thorerik/phantombot-webpanel:latest.svg)](https://imagelayers.io/?images=thorerik/phantombot-webpanel:latest) [![Docker Stars](https://img.shields.io/docker/stars/thorerik/phantombot-webpanel.svg?style=flat-square)](https://hub.docker.com/r/thorerik/phantombot-webpanel/) [![Docker Pulls](https://img.shields.io/docker/pulls/thorerik/phantombot-webpanel.svg?style=flat-square)](https://hub.docker.com/r/thorerik/phantombot-webpanel/)
 
 [Dockerfile][1]
 
