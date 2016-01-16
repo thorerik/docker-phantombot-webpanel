@@ -8,7 +8,7 @@ Docker-PhantomBot-WebPanel
 
 To run this docker image use
 
-    docker run --name=phantombot-webpanel --link phantombot:phantombot -d phantombot-webpanel
+    docker run --name=phantombot-webpanel --link phantombot:phantombot -d thorerik/docker-phantombot-webpanel:latest
 
 
 The container exposes port 80
